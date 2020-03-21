@@ -13,5 +13,10 @@ Server : Backend Server is a easy to user NodeJs application with quick instalat
 
 A Dashboard is created which is integrated with Google Maps and can also support indoor floor plans to visualise Dstancing impact
 
+Zeitpläne für die Veröffentlichung des Frameworks:
+21 March 2020  14:00Ur:  Server mit Rest API Release
+21 March 2020  16:00Uhr: Android-Client mit Server-API-Funktionalität
+21 March 2020  20 Uhr:    Dashboard mit Funktionen zur Überwachung des Restservers
 
 
+Fühlen Sie sich frei, das Framework zu verwenden, anstatt von Grund auf neu zu codieren !!
